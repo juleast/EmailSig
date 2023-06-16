@@ -37,9 +37,12 @@ html {
 }
 
 .pfp-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 11vw;
   width: 11vw;
-  padding: 1vw;
-  border: 2px grey;
-  border-radius: 11vw;
+  margin: 1vw;
+  border: 2px solid;
+  border-radius: 4vw;
 }
