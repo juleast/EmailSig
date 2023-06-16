@@ -3,10 +3,10 @@ html {
   width: 100%;
 }
 
-.main-section {
-  margin-left: 5vw;
-  margin-right: 5vw;
-  max-width: 300px;
+.divider {
+  color: grey;
+  opacity: .50;
+  border-width: 3px;
 }
 
 
@@ -28,8 +28,10 @@ html {
 }
 
 .pfp {
-  max-width: 10vw;
-  max-height: 10vw;
+  max-width: 7vw;
+  max-height: 7vw;
+  padding: 1vw;
+  margin: 1vw;
   border: 1px solid;
-  border-radius: 20px;
+  border-radius: 7vw;
 }
