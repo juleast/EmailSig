@@ -18,3 +18,8 @@ html {
   font-style: italic;
   font-family: cursive;
 }
+
+.quote-author {
+  text-align: right;
+  padding-right: 5vw
+}
