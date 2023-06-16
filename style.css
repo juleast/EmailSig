@@ -13,3 +13,8 @@ html {
   display: flex;
   height: 2vw;
 }
+
+.quote-text {
+  font-style: italic;
+  font-family: cursive;
+}
